@@ -66,6 +66,7 @@ To quickly run some examples showcasing Capabilities:
 cargo run --example get_wallet_age
 ```
 
+## Library under Heavy Construction so the rest features may not function properly!🚧🚧🚧<br>
 To use like a Library: Add to your `Cargo.toml`:
 
 ```toml
@@ -87,6 +88,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 ```
+
 
 
 
